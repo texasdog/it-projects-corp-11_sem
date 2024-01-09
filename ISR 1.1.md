@@ -30,8 +30,6 @@ git show
 ```git
 git tag 1.1.0 <вставьте-commitID-здесь>
 ```
-### gitk
-
 
 ### git fetch
 
