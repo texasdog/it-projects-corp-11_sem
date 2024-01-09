@@ -4,7 +4,6 @@
 
 ### Анкета
 
-[https://docs.google.com/forms/d/e/1FAIpQLSfDMWTqgQRxHpyk00OkuHh2uHTUzP6_jbGnMCRGOutP90o8Iw/viewform]([https://docs.google.com/forms/d/e/1FAIpQLSfDMWTqgQRxHpyk00OkuHh2uHTUzP6_jbGnMCRGOutP90o8Iw/viewform)
 [Ссылка на анкетирование](https://docs.google.com/forms/d/e/1FAIpQLSdW_F4v_JTKW4k0tvPF6WC5B4MwJw3gLianmOndmEUtbUeM0A/viewform?usp=sf_link)
 
 
